@@ -1,6 +1,6 @@
 # 🎓 Lecture Summarizer using Whisper + LLaMA
 
-This project transcribes lecture audio files and summarizes them using powerful open-source LLMs (LLaMA 2 or LLaMA 3). It's designed to help students, researchers, and professionals quickly extract key points from long audio recordings.
+This project transcribes lecture audio files and summarizes them using powerful open-source LLMs (LLaMA 2 ). It's designed to help students, researchers, and professionals quickly extract key points from long audio recordings.
 
 ---
 
